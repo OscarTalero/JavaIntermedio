@@ -7,6 +7,6 @@
     <bean id="greeting" class="com.example.Greeting">
         <!-- collaborators and configuration for this bean go here -->
     </bean>
-    
+
 
 </beans>
